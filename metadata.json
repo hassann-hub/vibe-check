@@ -1,0 +1,6 @@
+{
+  "name": "VibeCheck - Gen Z Hinglish Personality & Roast AI",
+  "description": "Apna vibe pata karo! Viral Hinglish personality quiz, AI roasts, friend compatibility tests, and Instagram story-worthy result cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
